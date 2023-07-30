@@ -13,3 +13,5 @@ for sale. We can also record the details of the employees who work there.
 - It is easy to use and understand and given that we are familiar with the language, we decided to opt python.
 - Python also supports an API to work on psql databases, psycopg2. The library is very convenient to use and has a wide variety of functions which makes it easier to work with.
 - Psycopg2 is a PostgreSQL adapter for the Python programming language. It is a wrapper for the libpq, the official PostgreSQL client library.  The quickest way to install Psycopg is using the wheel package available on PyPI. ‘pip install pyscopg2’ is also one of the ways to install the package.
+- Run the 'frontend.py' file.
+- More directions and output are present in the file 'DBMS Assignment 4 Team 8. pdf'
