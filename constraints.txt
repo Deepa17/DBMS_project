@@ -1,0 +1,3 @@
+how to set start date less <= end date
+instalments amount <=total price
+instalments of a p_id must have the same customer
