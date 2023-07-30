@@ -1,0 +1,2 @@
+front-end uses python 
+  dbms designed using psql
